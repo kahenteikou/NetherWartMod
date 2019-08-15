@@ -1,16 +1,16 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "kokkiemousenetherwartmod",
+  "name": "NetherWart Mod",
+  "description": "Nether Wart Biome Add",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/kokkiemouse/NetherWartMod/releases",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["kokkiemouse"],
+  "credits": "kokkiemouse",
   "logoFile": "",
-  "screenshots": [],
+  "screenshots": ["logo.png"],
   "dependencies": []
 }
 ]
