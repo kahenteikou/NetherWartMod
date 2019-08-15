@@ -19,7 +19,7 @@ public class NetherWartMod {
     /** MOD名称 */
     public static final String MOD_NAME = "NetherWart Mod";
     /** MODのバージョン */
-    public static final String MOD_VERSION = "0.0.1";
+    public static final String MOD_VERSION = "1.0.0";
     /** 起動出来るMinecraft本体のバージョン。記法はMavenのVersion Range Specificationを検索すること。 */
     public static final String MOD_ACCEPTED_MC_VERSIONS = "[1.12.2]";
 
